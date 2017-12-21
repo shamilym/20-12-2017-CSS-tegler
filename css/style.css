@@ -1,0 +1,79 @@
+/* *{
+    font-size: 18px;
+} */
+#birincitext{
+    color: green;
+    padding: 15px;
+    background-color: #ccc;
+}
+
+#ikincitext{
+    color:red
+}
+#ucuncutext{
+    color:blue;
+    font-size:13px
+}
+
+.btn{
+    padding: 10px;
+    background-color: rgb(89, 182, 89);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.btn-white{
+    background-color:white;
+    color: black !important;
+}
+
+.btn-gray{
+    background-color:#616161;
+    color: white;
+}
+
+.btn-big{
+    padding: 25px;
+}
+
+.text,.link,#birintitext{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#birincitext span{
+    color: red;
+}
+
+#ikincitext span{
+    color: black;
+}
+
+.menu{
+    list-style-type: none;
+    padding: 0;
+}
+.menu li{
+    display: inline;
+}
+.menu li a{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: white;
+    background-color: #4CAF50;
+}
+
+.sidebar{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.sidebar li a{
+    width: 200px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: white;
+    background-color: #4CAF50;
+    margin-bottom: 10px;
+}
